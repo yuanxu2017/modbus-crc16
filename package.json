@@ -1,0 +1,22 @@
+{
+  "name": "morelinks-crc8",
+  "version": "1.0.0",
+  "description": "morelinks-crc8",
+  "main": "crc8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanxu2017/morelinks-crc8.git"
+  },
+  "keywords": [
+    "crc8"
+  ],
+  "author": "bywander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuanxu2017/morelinks-crc8/issues"
+  },
+  "homepage": "https://github.com/yuanxu2017/morelinks-crc8#readme"
+}
