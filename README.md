@@ -1,6 +1,6 @@
-# crc8
+# modbus-crc16
 
-crc8
+modbus-crc16
 
 ## Example
 ```javascript

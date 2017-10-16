@@ -1,22 +1,22 @@
 {
-  "name": "morelinks-crc8",
+  "name": "modbus-crc16",
   "version": "1.0.0",
-  "description": "morelinks-crc8",
-  "main": "crc8.js",
+  "description": "modbus-crc16",
+  "main": "crc16.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuanxu2017/morelinks-crc8.git"
+    "url": "git+https://github.com/yuanxu2017/modbus-crc16.git"
   },
   "keywords": [
-    "crc8"
+    "crc16"
   ],
   "author": "bywander",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yuanxu2017/morelinks-crc8/issues"
+    "url": "https://github.com/yuanxu2017/modbus-crc16/issues"
   },
-  "homepage": "https://github.com/yuanxu2017/morelinks-crc8#readme"
+  "homepage": "https://github.com/yuanxu2017/modbus-crc16#readme"
 }
